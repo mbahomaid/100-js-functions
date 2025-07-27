@@ -8,7 +8,7 @@ Each function is implemented in its own file and includes:
 
 * Clear function definition
 * Example usage
-* Problem-specific README (in some cases)
+* Problem-specific README
 
 ## ✅ Topics Covered
 
