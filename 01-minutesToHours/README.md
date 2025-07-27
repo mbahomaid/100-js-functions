@@ -1,7 +1,3 @@
-Here’s a simple and clear `README.md` for the `minutesToHours` problem:
-
----
-
 # 📘 minutesToHours
 
 ## 🧩 Problem Description
