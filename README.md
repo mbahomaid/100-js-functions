@@ -23,7 +23,7 @@ Each function is implemented in its own file and includes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/100-js-functions.git
+   git clone https://github.com/mbahomaid/100-js-functions.git
    cd 100-js-functions
    ```
 
